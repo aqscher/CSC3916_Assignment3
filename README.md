@@ -1,4 +1,4 @@
-# Assignment Three
+# Assignment Three 
 ## Purpose
 The purpose of this assignment is to get comfortable working with a NoSQL database (MongoDB). 
 
